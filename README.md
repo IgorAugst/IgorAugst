@@ -6,7 +6,7 @@
 
 ---
 
-💬 Where to find me:
+## 💬 Where to find me:
 
 [![Linkedin: Igor Augusto](https://img.shields.io/badge/-Igor%20Augusto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-augusto-santos/)](https://www.linkedin.com/in/igor-augusto-santos/)
 [![Gmail Badge](https://img.shields.io/badge/-igoraugusto1029@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igoraugusto1029@gmail.com)](mailto:igoraugusto1029@gmail.com)
