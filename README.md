@@ -1,6 +1,6 @@
 ## 💜 Hi, I'm <strong>Igor!</strong>
 
-> I am a Information Systems student at São Paulo University!
+> I am an Information Systems student at São Paulo University!
 
 🏗️ Currently learning Android Development with Kotlin  
 
