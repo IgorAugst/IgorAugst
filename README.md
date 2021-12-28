@@ -27,7 +27,7 @@
 
 ## ⭐ Info
 
-[![Anurag's GitHub stats](https://github-readme-stats-cupdbuoye-igorsantoss.vercel.app/api?username=IgorSantoss&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-pink-pi-igor.vercel.app/api?username=IgorSantoss&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-cupdbuoye-igorsantoss.vercel.app/api/top-langs?username=IgorSantoss&hide=css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pink-pi-igor.vercel.app/api/top-langs?username=IgorSantoss&hide=css&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
